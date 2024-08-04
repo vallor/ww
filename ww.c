@@ -4,8 +4,6 @@
 #include <time.h>
 #include <arpa/inet.h>
 
-#define __USE_GNU
-
 int main(void)
 {
 
